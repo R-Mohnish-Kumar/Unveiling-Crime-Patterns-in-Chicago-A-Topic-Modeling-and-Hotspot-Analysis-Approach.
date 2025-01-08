@@ -49,8 +49,7 @@ This project explores crime patterns in Chicago using topic modeling and hotspot
 
 1. 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/repo-name.git
-   cd repo-name
+   git clone https://github.com/R-Mohnish-Kumar/Unveiling-Crime-Patterns-in-Chicago-A-Topic-Modeling-and-Hotspot-Analysis-Approach..git
    ```
 2. Open the Jupyter Notebook file:
    ```bash
